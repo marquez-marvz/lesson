@@ -1,0 +1,65 @@
+   #one {
+       text-align: center;
+       color: blue;
+       background-color: red;
+   }
+   
+   .myformat {
+       color: black;
+       background-color: yellow;
+   }
+   
+   #two,
+   #three {
+       color: black;
+       background-color: yellow;
+   }
+   
+   .myheight {
+       height: 200px;
+       background-color: green;
+   }
+   
+   .myheight-1 {
+       height: 50px;
+   }
+   
+   #first {
+       background-color: yellow;
+   }
+   
+   #second {
+       background-color: white;
+   }
+   
+   #third {
+       background-color: blue;
+   }
+   
+   #fourth {
+       background-color: grey;
+   }
+   
+   #fifth {
+       background-color: pink;
+   }
+   
+   body {
+       background-color: green;
+   }
+   
+   #txtquestioncode {
+       width: 200px;
+       margin-top: 10px;
+       margin-left: 25px;
+   }
+   
+   #table_student {
+       table-layout: fixed;
+       width: 100%;
+   }
+   
+   .tabletd {
+       width: 25%;
+       text-align: center;
+   }
